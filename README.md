@@ -1,2 +1,2 @@
 # Camp_Finder
-Project about a camp place finder 
+<h1> A simple camping place finder app with CRUD capabilities </h1>
